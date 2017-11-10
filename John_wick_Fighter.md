@@ -1,5 +1,7 @@
 # John Wick
 ## Fighter
+Level  : 1
+XP     : 0
 
 ## Ability Score
 Strength     (STR) : (Weak     : -1) : 16 __(+2)__
@@ -12,8 +14,8 @@ Charisma     (CHA) : (Scarred  : -1) : 9  __(+0)__
 ## Stats
 Damage     : D10
 Armor      :
-Max HP     : 11  (10+Constitution)
-Current HP : 11
+Max HP     : 25  (10+Constitution)
+Current HP : 25
 
 ## Attributes
 Alignment   : Good
