@@ -1,11 +1,11 @@
 # John Wick
 ## Fighter
 Level  : 1
-XP     : 0
+XP     : 4
 
 ## Ability Score
 Strength     (STR) : (Weak     : -1) : 16 __(+2)__
-Dexterity    (DEX) : (Shaky    : -1) : 13 __(+1)__
+Dexterity    (DEX) : (Shaky    : -1) : 13 __(+1)__	:	Shaky when near water	:	-1
 Constitution (CON) : (Sick     : -1) : 15 __(+1)__
 Intelligence (INT) : (Stunned  : -1) : 8  __(-1)__
 Wisdom       (WIS) : (Confused : -1) : 12 __(+0)__ 
@@ -13,9 +13,9 @@ Charisma     (CHA) : (Scarred  : -1) : 9  __(+0)__
 
 ## Stats
 Damage     : D10
-Armor      :
+Armor      : 3
 Max HP     : 25  (10+Constitution)
-Current HP : 25
+Current HP : 16
 
 ## Attributes
 Alignment   : Good
@@ -38,6 +38,7 @@ You ignore the clumsy tag on armor you wear.
 This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.
 
 __Axe__
+Name         : "The Taken"
 Weight       : 2
 Range        : Close
 Enhancements : Sharp. +2 piercing.
@@ -46,12 +47,15 @@ Look         : Sinister
 
 ## Gear
 Max Load (12 + STR) : 14 (Load)
-Total Load          : 8  (Load)
+Total Load          : 9  (Load)
 Axe Weight          : 2  (Load)
 Rations             : 1  (Load) : 5 uses
 Scale armor         : 3  (Load) : 2 armor
 Shield              : 2  (Load) : +1 armor
+Adventuring Gear    : 1  (Load) : 4 uses 
 Total Coins         : 22
+blue glow crystal   : 1  (Load)
+poison bottle       : 1  (Load)
 
 
 ## Advanced Moves
@@ -63,3 +67,6 @@ _______________ owes me their life, whether they admit it or not.
 I have sworn to protect _______________.
 I worry about the ability of _______________ to survive in the dungeon.
 _______________ is soft, but I will make them hard like me.
+
+## Used
+Adventuring Gear: 1 torch.
